@@ -11,11 +11,11 @@ ABI Support : ARMEABI-V7, ARM64-V8, X86 & X86_64.
 
 ## How to use
 
-1. Download and unzip put in internal memory.
+1. Download [xmroid](https://github.com/xmroid/XMROID/releases) and unzip put in internal memory.
 
-2. Copy the xmdroid file to Termux.
+2. Copy the xmroid file to Termux.
 ```bash
-$ cd /sdcard/local/xmroid $HOME
+$ cd /sdcard/folder/xmroid $HOME
 ```
 
 3. Grant access permission.
