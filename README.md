@@ -25,7 +25,7 @@ $ chmod 755 xmroid
 
 4. Done and you ready for to mine.
 ```bash
-$ ./xmroid -a algo -u wallet address -p password
+$ ./xmroid -a algo -o https://poolurl:port -u wallet address -p password
 ```
 
 #### Credits
